@@ -3,3 +3,6 @@
 ################################################################################
 
 /DonetInstall/bin/Debug
+/DonetInstall/obj
+/DonetInstall/.vs/DonetInstall
+/.vs
